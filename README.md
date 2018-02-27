@@ -13,11 +13,13 @@ The vehicles can be used within many areas, for example to transport people and 
 
 ## Technical Requirements
 
+- C# RestAPI for backend
+
 - IDE - Visual Studio
 
 [https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15#](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15#)
 
-- AngularJS (Angular 1 to be clear)
+- AngularJS for frontend (Angular 1.5 to be clear)
 
 ##  Story 1
 
